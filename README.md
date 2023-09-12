@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a .Net Developer who loves working on financial related applciations.  My favorite stack is ASP.Net Web Api, Blazor, and SQL Server.  Checkout some of my projects below.
+I am a .Net Developer who loves working on financial related applciations.  My stack is ASP.Net Web Api, Blazor, and SQL Server.  Checkout some of my projects below.
 <!--
 **joeltennant/joeltennant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
