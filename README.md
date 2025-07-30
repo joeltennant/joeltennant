@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Joel Tennant
 
-### Lead Software Engineer | .NET/Azure Expert | Code Rehabilitation Specialist
+### Lead Software Engineer | .NET/Azure | Code Rehabilitation Specialist
 
 ### 🔧 **Technical Expertise**
 - **.NET Core/Framework** - Enterprise application architecture
