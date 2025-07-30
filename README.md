@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Joel Tennant
 
-## Lead Software Engineer | Enterprise Systems Architecture | Team Leadership
+## Lead Software Engineer | .Net/Azure | Legacy System Modernization | Team Leadership & Mentoring
 
 ### 🔧 **Technical Expertise**
 - **.NET Core/Framework** - Enterprise application architecture
