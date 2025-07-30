@@ -1,17 +1,29 @@
-### Hi there 👋
+# Hi there! 👋 I'm Joel Tennant
 
-I am a .Net Developer who loves working on financial related applciations.  My stack is ASP.Net Web Api, Blazor, and SQL Server.  Checkout some of my projects below.
-<!--
-**joeltennant/joeltennant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Lead Software Engineer | Enterprise Systems Architecture | Team Leadership
 
-Here are some ideas to get you started:
+### 🔧 **Technical Expertise**
+- **.NET Core/Framework** - Enterprise application architecture
+- **Microsoft Azure** - Cloud integrations and Service Bus implementations  
+- **SQL Server** - Database design and T-SQL optimization
+- **Enterprise Integration** - Legacy system modernization
+- **Agile Leadership** - Team transformation and mentoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 **Current Focus**
+- Leading agile transformation initiatives across development teams
+- Modernizing legacy government systems with cloud-native solutions
+- Mentoring developers through complex enterprise integration projects
+- Coordinating production deployments across multiple teams
+
+### 🎯 **Professional Highlights**
+- **6+ years** architecting mission-critical government systems
+- **280-ticket backlog** successfully transformed into structured agile workflows
+- **Community Leadership** - Former organizer of South Sound Developer User Group
+
+### 🤝 **Let's Connect**
+- 💼 [LinkedIn](https://linkedin.com/in/joeltennant)
+- 📧 joel.development@outlook.com
+- 🌐 [Portfolio](https://joeltennant.github.io)
+
+---
+*"Passionate about modernizing legacy systems, mentoring development teams, and building enterprise solutions that serve the public good."*
