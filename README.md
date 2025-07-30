@@ -15,7 +15,6 @@ Transform technical debt into maintainable assets - whether it's 20-year-old ent
 ### 🤝 **Let's Connect**
 - 💼 [LinkedIn](https://linkedin.com/in/joeltennant)
 - 📧 joel.development@outlook.com
-- 🌐 [Portfolio](https://joeltennant.github.io)
 
 ---
-*"Passionate about bringing structure to chaos, mentoring development teams, and building enterprise solutions that serve the public good."*
+*"Passionate about bringing structure to chaos, mentoring development teams, and building enterprise solutions."*
