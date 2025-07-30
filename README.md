@@ -9,17 +9,6 @@
 - **Enterprise Integration** - Legacy system modernization
 - **Agile Leadership** - Team transformation and mentoring
 
-### 🚀 **Current Focus**
-- Leading agile transformation initiatives across development teams
-- Modernizing legacy government systems with cloud-native solutions
-- Mentoring developers through complex enterprise integration projects
-- Coordinating production deployments across multiple teams
-
-### 🎯 **Professional Highlights**
-- **6+ years** architecting mission-critical government systems
-- **280-ticket backlog** successfully transformed into structured agile workflows
-- **Community Leadership** - Former organizer of South Sound Developer User Group
-
 ### 🤝 **Let's Connect**
 - 💼 [LinkedIn](https://linkedin.com/in/joeltennant)
 - 📧 joel.development@outlook.com
